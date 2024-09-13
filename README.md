@@ -1,4 +1,4 @@
-- 👋 Olá, eu sou @Nparanzini
+- 👋 Olá, eu sou Natalia Paranzini
 - 👀 Tenho interesse em explorar soluções inovadoras com foco em metodologias ágeis, como Scrum e Kanban.
 - 📈 Atualmente, estou continuamente aprendendo sobre como aplicar agilidade na gestão de projetos, com foco em Scrum, Kanban e ferramentas de colaboração ágil.
 - 🔍 Estou buscando colaborar em projetos que utilizem metodologias ágeis para aumentar a eficiência organizacional e promover equipes autônomas e colaborativas.
