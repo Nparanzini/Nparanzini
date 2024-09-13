@@ -1,7 +1,12 @@
 - 👋 Olá, eu sou @Nparanzini
-- 👀 Tenho interesse em explorar soluções inovadoras no campo de Recursos Humanos, especialmente em utilizar a tecnologia para aprimorar os processos de RH.
-- 📈 Atualmente, estou continuamente aprendendo sobre metodologia ágil para utilizar como ferramenta em processos de RH, com foco nas seguintes áreas: Análise de dados de RH, Gestão de Projetos, RH Ágil e People Analytics.
-- 🔍 Estou buscando colaborar em projetos que utilizem tecnologia para melhorar os processos de Recursos Humanos e aumentar a eficácia organizacional.
+- 👀 Tenho interesse em explorar soluções inovadoras com foco em metodologias ágeis, como Scrum e Kanban.
+- 📈 Atualmente, estou continuamente aprendendo sobre como aplicar agilidade na gestão de projetos, com foco em Scrum, Kanban e ferramentas de colaboração ágil.
+- 🔍 Estou buscando colaborar em projetos que utilizem metodologias ágeis para aumentar a eficiência organizacional e promover equipes autônomas e colaborativas.
+- 🚀 **Áreas de Expertise**:
+- Metodologias Ágeis (Scrum, Kanban)
+- Gestão de Projetos Ágeis
+- Facilitação de Equipes
+- Melhoria Contínua e Retrospectivas
 - 📫 Como me encontrar
 - **Email:** [nataliaparanzini@gmail.com](mailto:seu.email@example.com)
 - **LinkedIn:** [(https://www.linkedin.com/in/nataliaparanzini/)](https://www.linkedin.com/in/nataliaparanzini/)]
